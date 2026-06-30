@@ -1,0 +1,9 @@
+{
+  "plant_clusters": { "batches_per_family": 3, "min_per_batch": 4, "max_per_batch": 14, "cluster_radius": 70.0 },
+  "calm":      { "duration": 480,  "spawn_interval": 4.0,
+                 "distribution": { "plant": 0.5, "herbivore": 0.3, "carnivore": 0.1, "omnivore": 0.1 } },
+  "intense":   { "duration": 720,  "spawn_interval": 2.5,
+                 "distribution": { "plant": 0.2, "herbivore": 0.3, "carnivore": 0.3, "omnivore": 0.2 } },
+  "overpower": { "duration": 9999, "spawn_interval": 1.2,
+                 "distribution": { "plant": 0.05, "herbivore": 0.2, "carnivore": 0.55, "omnivore": 0.2 } }
+}

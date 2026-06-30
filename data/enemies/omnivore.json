@@ -1,0 +1,14 @@
+{
+  "id": "omnivore",
+  "type": "omnivore",
+  "display_name": "Omnivore",
+  "hp": 35.0,
+  "speed": 210.0,
+  "turn_speed": 150.0,
+  "damage": 10.0,
+  "nutrient_value": 30.0,
+  "wander_speed_frac": 0.2,
+  "wander_interval_min": 2.0,
+  "wander_interval_max": 6.0,
+  "visual": { "color": [0.6, 0.4, 0.75], "radius": 17.0 }
+}

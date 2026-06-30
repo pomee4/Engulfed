@@ -1,0 +1,14 @@
+{
+  "id": "plant",
+  "type": "plant",
+  "display_name": "Plant",
+  "hp": 20.0,
+  "speed": 18.0,
+  "turn_speed": 45.0,
+  "damage": 0.0,
+  "nutrient_value": 15.0,
+  "wander_speed_frac": 1.0,
+  "wander_interval_min": 5.0,
+  "wander_interval_max": 12.0,
+  "visual": { "color": [0.2, 0.75, 0.3], "radius": 14.0 }
+}

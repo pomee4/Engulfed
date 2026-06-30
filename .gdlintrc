@@ -1,0 +1,14 @@
+rules:
+  max-line-length: 100
+  function-name: "^[a-z_][a-z0-9_]*$"
+  class-name: "^[A-Z][a-zA-Z0-9]*$"
+  sub-class-name: "^[A-Z][a-zA-Z0-9]*$"
+  signal-name: "^[a-z][a-z0-9_]*$"
+  class-variable-name: "^[a-z_][a-z0-9_]*$"
+  function-variable-name: "^[a-z_][a-z0-9_]*$"
+  function-argument-name: "^[a-z_][a-z0-9_]*$"
+  loop-variable-name: "^[a-z_][a-z0-9_]*$"
+  enum-name: "^[A-Z][a-zA-Z0-9]*$"
+  enum-element-name: "^[A-Z][A-Z0-9_]*$"
+  constant-name: "^[A-Z][A-Z0-9_]*$"
+  load-constant-name: "^(([A-Z][A-Z0-9_]*)|([A-Z][a-zA-Z0-9]*))$"
